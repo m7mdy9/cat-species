@@ -1,0 +1,65 @@
+body {
+    background-color: #0c0c0c;
+}
+* {
+    color: white;
+}
+.cat_1 {
+    padding-top: 20vh;
+    height: 100vh;
+    text-align: center;
+    margin: 0 auto;
+}
+#cat_header {
+    text-align: center;
+    font-family: "Inter", "Roboto", sans-serif;
+    font-weight: 900;
+    font-size: 10vh;
+}
+#cat_p {
+    opacity: 0;
+    padding-inline: 20%;
+    text-wrap: wrap;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #efefef;
+    font-size: 3vh;
+}
+img {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 40vw;
+    height: auto;
+}
+#cat_s_header {
+    text-align: center;
+    font-family: "Inter", "Roboto", sans-serif;
+    font-weight: 900;
+    font-size: 10vh;
+}
+#cat_s_p {
+    padding-left: 15%;
+    text-wrap: wrap;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #efefef;
+    font-size: 3vh;
+}
+#cat_ordered {
+    font-size: 4vh;
+    padding-inline: 25%;
+}
+.cat_thing{
+    font-size: 4vh;
+    font-family: "Inter", "Roboto", sans-serif;
+    font-weight: 700;
+}
+#cat_ordered ul {
+    width: 52.5vw;
+    font-size: 3vh;
+    font-family: "Inter", "Roboto", sans-serif;
+    font-weight: 600;
+}
+#cat_ordered li {
+    padding-bottom: 7%;
+}
